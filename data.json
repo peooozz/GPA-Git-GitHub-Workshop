@@ -13,6 +13,13 @@
             "department": "Informaton Techknology",
             "idCode": "23IF053",
             "feedback": ""
+        },
+         {
+            "name": "Piyush Thul",
+            "year": "Third Year",
+            "department": "Information technology",
+            "idCode": "22IF065",
+            "feedback": "Great workshop! Learned a lot about Git and GitHub."
         }
     ]
 }
